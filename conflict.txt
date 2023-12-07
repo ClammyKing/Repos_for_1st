@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-problem
-is it conflict
-=======
 solution
->>>>>>> another
